@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.31)  31 OCT 2023 15:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.31)  31 OCT 2023 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -792,9 +792,6 @@ Package hyperref Warning: Suppressing empty link on input line 139.
 Package hyperref Warning: Suppressing empty link on input line 139.
 
 
-Package hyperref Warning: Suppressing empty link on input line 139.
-
-
 Package hyperref Warning: Suppressing empty link on input line 182.
 
 
@@ -837,9 +834,9 @@ lan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C
 2.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmr17.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmti12.pfb>
-Output written on template.pdf (2 pages, 172925 bytes).
+Output written on template.pdf (2 pages, 173205 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
  54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
