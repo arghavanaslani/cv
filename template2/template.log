@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.31)  31 OCT 2023 15:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.31)  17 DEC 2023 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,11 +755,11 @@ Package hyperref Info: Link coloring ON on input line 103.
 \@outlinefile=\write4
 \openout4 = `template.out'.
 
-<./avatar/avatar4.jpg, id=27, 420.82219pt x 406.51875pt>
-File: ./avatar/avatar4.jpg Graphic file (type jpg)
-<use ./avatar/avatar4.jpg>
-Package pdftex.def Info: ./avatar/avatar4.jpg  used on input line 113.
-(pdftex.def)             Requested size: 71.13188pt x 68.71028pt.
+<./avatar/avatar6.jpg, id=31, 412.54124pt x 406.51875pt>
+File: ./avatar/avatar6.jpg Graphic file (type jpg)
+<use ./avatar/avatar6.jpg>
+Package pdftex.def Info: ./avatar/avatar6.jpg  used on input line 113.
+(pdftex.def)             Requested size: 71.13188pt x 70.09354pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 114.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -784,59 +784,54 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
 nput line 123.
 
 (C:\Users\aslan\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree2.fd)
-
-Package hyperref Warning: Suppressing empty link on input line 139.
-
-
-Package hyperref Warning: Suppressing empty link on input line 139.
-
-
-Package hyperref Warning: Suppressing empty link on input line 182.
-
-
-Package hyperref Warning: Suppressing empty link on input line 182.
-
-
-Package hyperref Warning: Suppressing empty link on input line 182.
-
-[1
+mefree2.fd) [1
 
 {C:/Users/aslan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/asla
 n/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:
 /Users/aslan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free
 1.enc}{C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome
-5/fa5free2.enc} <./avatar/avatar4.jpg>] [2] (template.aux)
+5/fa5free2.enc} <./avatar/avatar6.jpg>]
+
+Package hyperref Warning: Suppressing empty link on input line 203.
+
+
+Package hyperref Warning: Suppressing empty link on input line 203.
+
+
+Package hyperref Warning: Suppressing empty link on input line 203.
+
+[2] (template.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 68DB6195489CAD04DEB8DE4A9CE7EEBA;606.
+(rerunfilecheck)             Checksum: 15E7BF8ACB7F7B8B07B9C15B4FA9B5F2;810.
 Package logreq Info: Writing requests to 'template.run.xml'.
 \openout1 = `template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20512 strings out of 475247
- 374146 string characters out of 5757791
- 1938785 words of memory out of 5000000
- 41819 multiletter control sequences out of 15000+600000
- 563295 words of font info for 53 fonts, out of 8000000 for 9000
+ 20522 strings out of 475247
+ 374299 string characters out of 5757791
+ 1937785 words of memory out of 5000000
+ 41827 multiletter control sequences out of 15000+600000
+ 563632 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,9n,81p,1199b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5
-/FontAwesome5Brands-Regular.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/aslan/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/as
-lan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C
-:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmr17.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmti12.pfb>
-Output written on template.pdf (2 pages, 173205 bytes).
+ <C:\Users\aslan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaw
+esome5/FontAwesome5Brands-Regular.pfb><C:/Users/aslan/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/aslan
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
+ers/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.
+pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr17.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmti12.pfb>
+Output written on template.pdf (2 pages, 179253 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 10 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 
