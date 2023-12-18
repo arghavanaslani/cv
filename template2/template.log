@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.31)  17 DEC 2023 22:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.10.31)  18 DEC 2023 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,7 +755,7 @@ Package hyperref Info: Link coloring ON on input line 103.
 \@outlinefile=\write4
 \openout4 = `template.out'.
 
-<./avatar/avatar6.jpg, id=31, 412.54124pt x 406.51875pt>
+<./avatar/avatar6.jpg, id=35, 412.54124pt x 406.51875pt>
 File: ./avatar/avatar6.jpg Graphic file (type jpg)
 <use ./avatar/avatar6.jpg>
 Package pdftex.def Info: ./avatar/avatar6.jpg  used on input line 113.
@@ -791,14 +791,10 @@ n/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:
 /Users/aslan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free
 1.enc}{C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome
 5/fa5free2.enc} <./avatar/avatar6.jpg>]
-
-Package hyperref Warning: Suppressing empty link on input line 203.
-
-
-Package hyperref Warning: Suppressing empty link on input line 203.
-
-
-Package hyperref Warning: Suppressing empty link on input line 203.
+Underfull \hbox (badness 1275) in paragraph at lines 281--281
+[]|\OT1/cmr/m/n/12 Python (Numpy, Pan-das, Mat-plotlib, Seaborn, scikit-learn),
+ SQL (Post-gres,
+ []
 
 [2] (template.aux)
  ***********
@@ -806,16 +802,16 @@ LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 15E7BF8ACB7F7B8B07B9C15B4FA9B5F2;810.
+(rerunfilecheck)             Checksum: 17AA17414B294FE07CA88B01DC6C3DB1;961.
 Package logreq Info: Writing requests to 'template.run.xml'.
 \openout1 = `template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20522 strings out of 475247
- 374299 string characters out of 5757791
- 1937785 words of memory out of 5000000
- 41827 multiletter control sequences out of 15000+600000
+ 20524 strings out of 475247
+ 374319 string characters out of 5757791
+ 1938785 words of memory out of 5000000
+ 41828 multiletter control sequences out of 15000+600000
  563632 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,9n,81p,1199b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -829,9 +825,9 @@ pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmr12.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmr17.pfb><C:/Users/aslan/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmti12.pfb>
-Output written on template.pdf (2 pages, 179253 bytes).
+Output written on template.pdf (2 pages, 181455 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
- 62 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
